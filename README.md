@@ -29,7 +29,7 @@ cd statistics_course
    **On Windows:**
 
    ```bash
-   venv\Scripts\activate
+   source venv\Scripts\activate
    ```
 
    **On macOS/Linux:**
